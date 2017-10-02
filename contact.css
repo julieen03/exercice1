@@ -9,12 +9,11 @@ textarea {
        Cela ne marche pas avec tous les navigateurs  */
     resize: vertical;
 }.button {
-    /* Pour positionner les boutons de la même manière que les champs textuels */
+    
     padding-left: 90px; /* même dimension que les étiquettes */
 }
 
 button {
-    /* Cette marge représente approximativement le même espace
-       que celui entre les étiquettes et les champs textuels */
+ 
     margin-left: .5em;
 }
